@@ -1,0 +1,12 @@
+.tabelaHorarios th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(53, 179, 110);
+}
+
+.tabelaHorarios li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tabelaHorarios{
+    border-color: rgb(53, 179, 110);
+}
