@@ -1,0 +1,15 @@
+.back-green{
+
+    background-color: rgb(114, 204, 114);
+    border-bottom:5px solid rgb(88, 143, 88);
+}
+
+.faq{
+    font-size: 40px;
+    color: antiquewhite;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
