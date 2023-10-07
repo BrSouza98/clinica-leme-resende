@@ -1,0 +1,39 @@
+.textProcess{
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tamanhoImg{
+    width: 50px;
+}
+
+.text{
+    display: grid;
+    justify-content: center;
+    font-size:small;
+}
+
+.imagesProcess{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media (max-width: 590px) {
+    .imagesProcess{
+        display:grid;
+        justify-content: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .text{
+        display: grid;
+        justify-content: center;
+        font-size:small;
+    }
+
+    .tamanhoImg{
+        width: 80px;
+    }
+}
