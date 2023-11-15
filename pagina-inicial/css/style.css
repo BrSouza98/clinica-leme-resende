@@ -1,0 +1,81 @@
+nav{
+    width: 100%;
+    height: 100px;  
+ 
+   border-bottom:3px solid #0c800e ;
+}
+
+.fundo-branco{
+    background-color: #fffbfb;
+}
+li{
+    color: #0c800e;
+}
+
+
+
+a:link {
+text-decoration:none;
+}
+
+.bg-blue {
+    background-color: #0c800e;
+}
+
+h4{
+    color:#fffbfb;
+    font-weight: bold;
+
+}
+
+.rodape{
+    position:absolute;
+    bottom: 1;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#0c800e;
+  text-align:center;
+}
+.nav-item{
+    font-size: 1.3em;
+    font-family: 'Franklin Gothic Medium';
+    
+}
+
+.rodape-links{
+    font-size: 1.2em;
+    color:white;
+}
+
+.rodape-titulos{
+    font-size: 1.7em;
+}
+.navbar-links:hover{
+    color: #10a413;
+}
+
+.pagina-inicial{
+    color: #10a413;
+    font-size: 1.25em;
+}
+
+.backgreen{
+    color: #10a413;
+}
+
+.imagens{
+    border-radius: 200px;
+}
+
+.cards{
+    padding-top: 30px;
+}
+
+.borda{
+    border-style: solid; 
+    border-width: 2px;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 10px;
+}
