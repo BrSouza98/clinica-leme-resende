@@ -1,6 +1,5 @@
 nav{
-    width: 100%;
-    height: 100px;  
+   
  
    border-bottom:3px solid #0c800e ;
 }
@@ -41,7 +40,7 @@ body{
 }
 
 
-.rodape{
+.footer{
  position: absolute;
     bottom: 0;
   left: 0;
